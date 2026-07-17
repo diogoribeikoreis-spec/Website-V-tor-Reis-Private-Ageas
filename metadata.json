@@ -1,0 +1,6 @@
+{
+  "name": "Vítor Reis Private Ageas",
+  "description": "Website profissional e comercial da consultora de seguros Vítor Reis Private Ageas, com soluções personalizadas para particulares e empresas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

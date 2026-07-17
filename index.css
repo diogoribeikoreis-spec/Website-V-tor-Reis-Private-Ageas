@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-ageas-purple: #8E419C;
+  --color-ageas-green: #90BC0D;
+  --color-ageas-cyan: #33D9EC;
+  --color-ageas-orange: #FC9E00;
+  --color-ageas-orange-dark: #EE5623;
+  --color-ageas-magenta: #D30773;
+
+  /* Elegant Dark Theme Colors */
+  --color-elegant-bg: #0a0c10;
+  --color-elegant-card: #11141d;
+  --color-elegant-header: #0e1118;
+  --color-elegant-grid: #151a24;
+  --color-elegant-teal: #009999;
+}
